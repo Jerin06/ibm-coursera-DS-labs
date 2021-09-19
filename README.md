@@ -2,10 +2,10 @@
 
 This Project contains Jupyter Notebooks that are part of the lab modules provided by the IBM Coursera Data Science Professional Certificate course.
 
-The modules are splited into 7 folders each represents unique course topics that are covered.
+In total, notebook lab modules from 8 out of 10 course topics are covered as below.
 
-#### [1. What is Data Science]
-#### [2. Tools for Data Science]
+#### 1. What is Data Science
+#### 2. Tools for Data Science
 #### [3. Data Science Methodology](https://github.com/Jerin06/ibm-coursera-ds-labs/tree/master/03_Data%20Science%20Methodology)
 #### [4. Python for Data Science and AI](https://github.com/Jerin06/ibm-coursera-ds-labs/tree/master/04_Python%20for%20Data%20Science)
 #### [5. Python Project for Data Science](https://github.com/Jerin06/ibm-coursera-ds-labs/tree/master/05_Python%20Project%20for%20Data%20Science)
